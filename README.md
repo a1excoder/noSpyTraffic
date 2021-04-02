@@ -8,3 +8,5 @@
 ```
 php main.php
 ```
+
+PS. do not forget to supplement the list of sites in the sites.json file
