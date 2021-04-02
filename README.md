@@ -10,6 +10,7 @@ php main.php
 ```
 
 P.S. do not forget to supplement the list of sites in the sites.json file
+
 if you use linux:
 ```
 sudo apt-get install php-curl
