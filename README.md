@@ -9,7 +9,7 @@
 php main.php
 ```
 
-P.S. do not forget to supplement the list of sites in the sites.json file
+P.S. do not forget update the list of sites in the sites.json file
 
 if you use linux:
 ```
